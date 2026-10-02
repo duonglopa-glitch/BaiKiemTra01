@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\bin\Debug\Bai03.exe
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\bin\Debug\Bai03.pdb
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.exe
+C:\Users\LOQ\Downloads\BaiKiemTra01\Bai03(Window Form)\Bai03\Bai03\obj\Debug\Bai03.pdb
